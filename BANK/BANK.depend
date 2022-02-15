@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563723888 source:c:\users\biswa\desktop\bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1563723977 source:c:\users\biswa\desktop\bank\resources.rc
+
