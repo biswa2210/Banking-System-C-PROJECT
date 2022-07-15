@@ -20,51 +20,39 @@
 
 <div align="justified">
  
-
-
-</div>
-
-## Purpose :point_down:
-
-<div align="justified">
-
+This is a banking system created by me using C. Here I have created acount details section. There are options to fetch account details, delete account. There are options to deposit and taking out amounts from account. 
 
 </div>
 
-## Use :point_down:
+## BANKING SYSTEM DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=3WkXATkqslk&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a&index=4">Click here to watch</a>
 
-<div align="justified">
- 
+## C and C++ PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=m5VnSust32E&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a">Click here to watch</a>
 
-</div>
 
 ## Folder Structure :point_down:
 
 ```bash
-BankingSystemCProject
-      
-                   ├── description.html
-                   ├── encodings.xmll
-                   └── project.template.xml
+Banking System CP roject
+           └── BANK.c
 
 ```
-
-## Making :point_down:
-
-
-
-    
 ## Screenshots :point_down: 
 
 <div align="center">
 
-<a href="pics/sfj1.jpeg"><img src="pics/sfj1.jpeg" width="800" height= "500"></a>
+<a href="bank1.png"><img src="bank1.png" width="800" height= "400"></a>
 
-<a href="pics/sfj2.jpeg"><img src="pics/sfj2.jpeg" width="800" height= "500"></a>
+<a href="bank2.png"><img src="bank2.png" width="800" height= "400"></a>
 
-<a href="pics/sfj3.jpeg"><img src="pics/sfj3.jpeg" width="800" height= "500"></a>
+<a href="bank3.png"><img src="bank3.png" width="800" height= "400"></a>
 
-<a href="pics/sfj4.jpeg"><img src="pics/sfj4.jpeg" width="800" height= "500"></a>
+<a href="bank4.png"><img src="bank4.png" width="800" height= "400"></a>
+
+<a href="bank5.png"><img src="bank5.png" width="800" height= "400"></a>
+
+<a href="bank6.png"><img src="bank6.png" width="800" height= "400"></a>
+
+<a href="bank7.png"><img src="bank7.png" width="800" height= "400"></a>
  
 </div>
 
